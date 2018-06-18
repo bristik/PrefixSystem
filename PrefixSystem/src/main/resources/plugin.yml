@@ -1,0 +1,6 @@
+name: PrefixSystem
+main: ru.bristol.prefixsystem.PrefixSystem
+version: 1.0
+commands:
+  prefix:
+  aprefix:

@@ -1,0 +1,14 @@
+messages:
+  main:
+    only-for-players: '&cЭта команда только для игроков!'
+    no-perm: '&cУ вас нету прав на выполнение данной команды!'
+  prefix:
+    usage: '&aИспользуйте, &c/prefix &7[&cПрефикс&7]'
+    blocked: '&cЭтот префикс запрещен!'
+    success: '&aУспешно!'
+  aprefix:
+    usage: '&aИспользуйте, &c/aprefix &7[&cНикнейм&7] [&cПрефикс&7]'
+    not-yourself: '&cВы не можете сменить префикс себе!'
+    blocked: '&cЭтот префикс запрещен!'
+    success: '&aУспешно!'
+    success-for-player: '&aВам сменили префикс!'
